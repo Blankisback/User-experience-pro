@@ -28,9 +28,9 @@ Netflix also suffers from this issue where all film and tv titles are reliant on
 
 <img width="1253" height="1047" alt="slice4" src="https://github.com/user-attachments/assets/b988c895-e002-4d8a-afd8-64e2a7a6381b" />
 
-This could all be fixed with a simple setting in the menu or just by having the click through show the title as normal text in the menu along with the larger styalised version.  Using these insights and guidence from (Lys Forstner, 2023) aswell as (W3C, 2025) we can make a more accessible and user friendly interface for our users.
+This could all be fixed with a simple setting in the menu or just by having the click through show the title as normal text in the menu along with the larger styalised version.  Using these insights and guidance from (Lys Forstner, 2023) as well as (W3C, 2025), we can make a more accessible and user friendly interface for our users.
 
-With regards to how the website will be used (Falkowski-Gilski and Uhl, 2020) gives a in depth survery of 16-25 year olds how they consume content covering, what services do they pay for, what devices do they watch on, even down to their internet speed and prefered audio quailities. We will be taking into account most of this paper for our framework.
+With regards to how the website will be used (Falkowski-Gilski and Uhl, 2020) gives a in depth survery of 16-25 year olds how they consume content, covering: what services do they pay for, what devices do they watch on, even down to their internet speed and prefered audio quailities. We will be taking into account most of this paper for our framework.
 
 
 ## **User Analysis**
