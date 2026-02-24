@@ -72,3 +72,8 @@ User Story: As a late night viewer, I tend to fall asleep during shows as such a
 
 Testing Critera: As this user tends to sleep through media a simple popup menu that automaticaly pauses the media in the background, asking if they want to continue, continue uninterupted or exit. - could be done thorugh a simple are you there yes/no and if no response within 5 minutes the device goes into rest mode
 
+### Demo Framework
+
+<img width="1366" height="719" alt="image" src="https://github.com/user-attachments/assets/79ec5609-3d92-455b-b9c1-7150d3eac115" />
+
+This framework is a mix of ideas from Netflix and Amazon Prime, it makes use of the Z pattern which the human eye follows which is why I have placed the title for the site in the top left, this site also follows the rule of thirds as i have seperated the site into parts for, reccomendations, continue watchimg and genres.
