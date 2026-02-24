@@ -28,7 +28,9 @@ Netflix also suffers from this issue where all film and tv titles are reliant on
 
 <img width="1253" height="1047" alt="slice4" src="https://github.com/user-attachments/assets/b988c895-e002-4d8a-afd8-64e2a7a6381b" />
 
-This could all be fixed with a simple setting in the menu or just by having the click through show the title as normal text in the menu along with the larger styalised version.
+This could all be fixed with a simple setting in the menu or just by having the click through show the title as normal text in the menu along with the larger styalised version.  Using these insights and guidence from (Lys Forstner, 2023) aswell as (W3C, 2025) we can make a more accessible and user friendly interface for our users.
+
+With regards to how the website will be used (Falkowski-Gilski and Uhl, 2020) gives a in depth survery of 16-25 year olds how they consume content covering, what services do they pay for, what devices do they watch on, even down to their internet speed and prefered audio quailities. We will be taking into account most of this paper for our framework.
 
 
 ## **User Analysis**
@@ -83,3 +85,11 @@ This framework is a mix of ideas from Netflix and Amazon Prime, it makes use of 
 For users who already know what movie they want to watch, there is an implemented search button which allows you to filter movies by name:
 
 <img width="1366" height="719" alt="image" src="https://github.com/user-attachments/assets/97ed25f1-b79b-410c-9498-32ad16994b5a" />
+
+### Refferences 
+
+Falkowski-Gilski, P. and Uhl, T. (2020). Current trends in consumption of multimedia content using online streaming platforms: A user-centric survey. [online] Science Direct. Available at: https://www.sciencedirect.com/science/article/abs/pii/S1574013719302473?via%3Dihub [Accessed 30 Jan. 2026].
+
+Lys Forstner, S. (2023). Designing a Dyslexia-Friendly Interaction with News Articles. [online] Sikt.no. Available at: https://nva.sikt.no/registration/0198f2238335-0613e77c-285b-4fa1-bf80-18cee64fa1ca [Accessed 23 Jan. 2026].
+
+W3C (2025). Web Content Accessibility Guidelines (WCAG) 2.1. W3.org. Available at: https://www.w3.org/TR/WCAG21/ [Accessed 23 Jan. 2026].
