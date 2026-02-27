@@ -9,7 +9,7 @@ Created by:
 This project covers differences between Netflix and Amazon prime video streaming services. Specifically our project focuses on user accessiblity such as laying out the site into categories based on genres, user tastes etc.
 
 
-## **Buisness neeeds and Website Development**
+## **Business needs and Website Development**
 (10 Marks)
 
 -- expand a list of why we are building this website
@@ -31,7 +31,7 @@ Netflix also suffers from this issue where all film and tv titles are reliant on
 
 This could all be fixed with a simple setting in the menu or just by having the click through show the title as normal text in the menu along with the larger styalised version.  Using these insights and guidance from (Lys Forstner, 2023) as well as (W3C, 2025), we can make a more accessible and user friendly interface for our users.
 
-With regards to how the website will be used (Falkowski-Gilski and Uhl, 2020) gives a in depth survery of 16-25 year olds how they consume content, covering: what services do they pay for, what devices do they watch on, even down to their internet speed and prefered audio quailities. We will be taking into account most of this paper for our framework.
+With regards to how the website will be used (Falkowski-Gilski and Uhl, 2020) gives a in depth survery of 16-25 year olds how they consume content, covering: what services do they pay for, what devices do they watch on, even down to their internet speed and prefered audio qualities. We will be taking into account most of this paper for our framework.
 
 -- add a conclusion to the research 
 
@@ -59,7 +59,7 @@ Traits; Budget Conscious, Visual Imparement, Prefers Darker Backgrounds.
 
 Accessibility/Requirments: High Contrast easy to Read titles.
 
-User Story: As a young individual, I am very concerned over budget. I want clear pricing easy term lengths and a straight forward cancelation process.
+User Story: As a young individual, I am very concerned over budget. I want clear pricing easy term lengths and a straight forward cancellation process.
 
 Testing Criterea: Given this user is visualy impared, forming a focus group to test what is more visible to a range of different people and selecting the three best options to implement for users to select what works best for them.
 
@@ -68,11 +68,11 @@ Testing Criterea: Given this user is visualy impared, forming a focus group to t
 
 Fifty Six Years Old, Returning User.
 
-Traits: Hearing Difficulties, Only watches an episode or two/month of a long series/show.
+Traits: Hearing Difficulties, only watches an episode or two/month of a long series/show.
 
-Accessibility/Requirements: Subtitles on Media potentially add an equalizer so they can adjust audio balance. Long term memory of what shows they have watched, maybe an ai recap blurb.
+Accessibility/Requirements: Subtitles on media potentially add an equalizer so they can adjust audio balance. Long term memory of what shows they have watched, maybe an ai recap blurb.
 
-User Story: With my hearing difficulties I want subtitles to be easily accessible, customisable, and persistant between shows. They should also be word for word to what is said in the media.
+User Story: With my hearing difficulties I want subtitles to be easily accessible, customisable, and consistent between shows. They should also be word for word to what is said in the media.
 
 Testing Critera: With the hearing difficulties from this user having subtitles that can be either manually selected to always be in the same place or automaticaly adjusted based on the contents of the media. The user should also be able to adjust the text and a background colour with opacity slider to fine tune them to their liking.
 
@@ -81,24 +81,25 @@ Testing Critera: With the hearing difficulties from this user having subtitles t
 
 Thirty Years Old, Frequent User.
 
-Traits: Reguarly binges entire shows, main complaint is falling asleep and missing content. 
+Traits: Regularly binges entire shows, main complaint is falling asleep and missing content. 
 
-Accesibility/Requirements: A sleep timer/Auto pause after inactivity for X, Ability to quickly and effortless reset progress on watched shows at will.  - will double check this but i think this is a function on netflix already (the are you still watching after inactivity between episodes)
+Accesibility/Requirements: A sleep timer/Auto pause after inactivity for X, ability to quickly and effortless reset progress on watched shows at will.  - will double check this but I think this is a function on netflix already (the are you still watching after inactivity between episodes)
 
 User Story: As a late night viewer, I tend to fall asleep during shows as such a feature which detects in-activity would be nice to help minimise the loss. This feature should be able to be dissabled though for when I am purposfully binging a show. An auto play feature would also be nice continuing on a movie with the next in the order if it is part of a larger serise or with something similiar if it is standalone.
 
-Testing Critera: As this user tends to sleep through media a simple popup menu that automaticaly pauses the media in the background, asking if they want to continue, continue uninterupted or exit. - could be done thorugh a simple are you there yes/no and if no response within 5 minutes the device goes into rest mode
+Testing Critera: As this user tends to sleep through media a simple popup menu that automaticaly pauses the media in the background, asking if they want to continue, continue uninterupted or exit. - could be done thorugh a simple are you there yes/no and if no response within 5 minutes the device goes into rest mode.
 
 ## Demo Framework
 (40 Marks)
 
 <img width="1366" height="719" alt="image" src="https://github.com/user-attachments/assets/79ec5609-3d92-455b-b9c1-7150d3eac115" />
 
-This framework is a mix of ideas from Netflix and Amazon Prime, it makes use of the Z pattern which the human eye follows which is why I have placed the title for the site in the top left, this site also follows the rule of thirds as i have seperated the site into parts for, reccomendations, continue watchimg and genres.
+This framework is a mix of ideas from Netflix and Amazon Prime. It makes use of the Z pattern which the human eye follows which is why I have placed the title for the site in the top left, this site also follows the rule of thirds as I have seperated the site into parts for, reccomendations, continue watching and genres.
 
 <img width="1366" height="719" alt="image" src="https://github.com/user-attachments/assets/0adc9c42-922a-4597-9890-19b4497b18ae" />
 
-For users who already know what movie they want to watch, there is an implemented search button which allows you to filter movies by name:
+
+For users who already know what movie they want to watch, there is an implemented search button which allows you to filter movies by name which is located in the top right corner as this is a universal feature across all streaming services:
 
 <img width="1366" height="719" alt="image" src="https://github.com/user-attachments/assets/97ed25f1-b79b-410c-9498-32ad16994b5a" />
 
