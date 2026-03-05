@@ -63,15 +63,7 @@ for testing ^
 
 ### Profile Three:
 
-Thirty Years Old, Frequent User.
-
-Traits: Regularly binges entire shows, main complaint is falling asleep and missing content. 
-
-Accesibility/Requirements: A sleep timer/Auto pause after inactivity for X, ability to quickly and effortless reset progress on watched shows at will.  - will double check this but I think this is a function on netflix already (the are you still watching after inactivity between episodes)
-
-User Story: As a late night viewer, I tend to fall asleep during shows as such a feature which detects in-activity would be nice to help minimise the loss. This feature should be able to be dissabled though for when I am purposfully binging a show. An auto play feature would also be nice continuing on a movie with the next in the order if it is part of a larger serise or with something similiar if it is standalone.
-
-Testing Critera: As this user tends to sleep through media a simple popup menu that automaticaly pauses the media in the background, asking if they want to continue, continue uninterupted or exit. - could be done thorugh a simple are you there yes/no and if no response within 5 minutes the device goes into rest mode.
+<img width="660" height="609" alt="image" src="https://github.com/user-attachments/assets/434228af-6961-49b2-b84d-92039291ccdc" />
 
 ## Demo Framework
 (40 Marks)
