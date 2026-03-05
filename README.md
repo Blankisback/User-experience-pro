@@ -6,7 +6,7 @@ Created by:
 - Mikolaj
 
 
-This project covers differences between Netflix and Amazon prime video streaming services. Specifically our project focuses on user accessiblity such as laying out the site into categories based on genres, user tastes etc.
+This project covers differences between Netflix and Amazon prime video streaming services. Specifically our project focuses on user accessiblity and usability such as laying out the site into categories based on genres, user tastes etc and making the site more usable for users with disabilities.
 
 
 ## **Business needs and Website Development**
@@ -14,10 +14,12 @@ This project covers differences between Netflix and Amazon prime video streaming
 
 -- expand a list of why we are building this website
 
-Both of these companies use their websites as streaming services, these sites where developed to effectivly share content with subscribers and to try and keep them engaged for as much as possible. They acchieved this by showing a variety of options catagroised into different sections; top ten lists, thrillers, action movies, easy watching etc and using captivating screenshots to try to sell each show of film to the user.
+We are building this website to help make streaming more accessible for all users, one key focus of our project is to help users with disabilities to be able to view streams, this could be through subtitle customization such as changing the font of the subtitles to be more dyslexia friendly. This is as the key to retaining users is usability, if the site looks nice but is unusable users will find alternate solutions.
+
+Both of these companies use their websites as streaming services, these sites where developed to effectivly share content with subscribers and to try and keep them engaged for as much as possible. They achieved this by showing a variety of options catagroised into different sections; top ten lists, thrillers, action movies, easy watching etc and using enticing screenshots to try to sell each show of film to the user.
 
 Starting with Amazon Prime video:
-Amazon does a lot of their design fairly well nothing is overly clutterd, there is decent spacing between all the titles. The worst part of it is they are reliant on the thumbnails of each of the show or film for the name, this could cause issues for people with visual impairment as some have low contrast or are overly stialised. One solution for this could be a mode where the title of the program is displayed bellow it. While doing this we could also accomidate certain lerning disabilitys such as dyslexia with a more friendly font and or a higher contrast background.
+Amazon does a lot of their design fairly well nothing is overly cluttered, there is good spacing between all the titles. The worst part of amazons design is that they are reliant on the thumbnails of each of the show or film for the name, this could cause issues for people with visual impairment as some have low contrast or are overly stylized which makes reading the title of the show/film difficult for some users. One solution for this could be a mode where the title of the program is displayed bellow it. While doing this we could also accomidate certain lerning disabilitys such as dyslexia with a more friendly font and or a higher contrast background.
 
 <img width="1737" height="1014" alt="slice1" src="https://github.com/user-attachments/assets/4471e1fa-fc5f-417c-ba32-23cc32a167a7" />
 
