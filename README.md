@@ -55,7 +55,7 @@ for testing ^
 
 ### Profile One:
 
-Eighteen Years Old, First Time User. ### PROMPT FOR IMAGE GENERATE - generate me an image of an 18 year old male, wearing circular framed glasses with a brown comeover haircut, he should be facing directly towards the camera with just his head in frame
+Eighteen Years Old, First Time User.
 
 Traits: Budget Conscious, Visual Imparement, Prefers Darker Backgrounds.
 
