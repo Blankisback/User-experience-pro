@@ -16,14 +16,14 @@ We are building this website to help make streaming more accessible for all user
 
 Both of these companies use their websites as streaming services, these sites where developed to effectivly share content with subscribers and to try and keep them engaged for as much as possible. They achieved this by showing a variety of options catagroised into different sections; top ten lists, thrillers, action movies, easy watching etc and using enticing screenshots to try to sell each show of film to the user.
 
-Starting with Amazon Prime video:
+Starting with Amazon Prime video: (Amazon,n.d)
 Amazon does a lot of their design fairly well nothing is overly cluttered, there is good spacing between all the titles. The worst part of amazons design is that they are reliant on the thumbnails of each of the show or film for the name, this could cause issues for people with visual impairment as some have low contrast or are overly stylized which makes reading the title of the show/film difficult for some users. One solution for this could be a mode where the title of the program is displayed bellow it. While doing this we could also accomidate certain lerning disabilitys such as dyslexia with a more friendly font and or a higher contrast background.
 
 <img width="1737" height="1014" alt="slice1" src="https://github.com/user-attachments/assets/4471e1fa-fc5f-417c-ba32-23cc32a167a7" />
 
 <img width="1867" height="991" alt="slice2" src="https://github.com/user-attachments/assets/cf6f8843-42fa-4597-8d63-9df270661c6c" />
 
-Netflix also suffers from this issue where all film and tv titles are reliant on the product thumbnail even on its click through menu where it has enough space to cleanly layout the title of the show they instead just go for a darkend preview with the title on top creating some contrast but certain scenarios that could still be hard to read especially for users with reading difficulties.
+Netflix also suffers from this issue where all film and tv titles are reliant on the product thumbnail even on its click through menu where it has enough space to cleanly layout the title of the show they instead just go for a darkend preview with the title on top creating some contrast but certain scenarios that could still be hard to read especially for users with reading difficulties. (Netflix, 2024)
 
 <img width="3133" height="972" alt="slice3" src="https://github.com/user-attachments/assets/c6f2182f-c776-49fd-b19b-ece9c9e890f4" />
 
@@ -78,10 +78,13 @@ This prompts the user how to fill in the box to key them in the write direction 
 It would look somewhat like this if we implemented that
 
 ### References 
+Amazon (n.d.). Amazon.co.uk: Prime Video. [online] www.amazon.co.uk. Available at: https://www.amazon.co.uk/Amazon-Video/b?&node=3010085031&ref=dvm_MLP_ROWEU_UK_1 [Accessed 6 Mar. 2026].
 
 Falkowski-Gilski, P. and Uhl, T. (2020). Current trends in consumption of multimedia content using online streaming platforms: A user-centric survey. [online] Science Direct. Available at: https://www.sciencedirect.com/science/article/abs/pii/S1574013719302473?via%3Dihub [Accessed 30 Jan. 2026].
 
 Lys Forstner, S. (2023). Designing a Dyslexia-Friendly Interaction with News Articles. [online] Sikt.no. Available at: https://nva.sikt.no/registration/0198f2238335-0613e77c-285b-4fa1-bf80-18cee64fa1ca [Accessed 23 Jan. 2026].
+
+Netflix (2024). Netflix United Kingdom – Watch TV Programmes Online, Watch Films Online. [online] Netflix.com. Available at: https://www.netflix.com/gb/ [Accessed 6 Mar. 2026].
 
 OpenAI (2025). ChatGPT. ChatGPT. Available at: https://chatgpt.com/ [Accessed 6 Mar. 2026].
 
