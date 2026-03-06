@@ -93,3 +93,4 @@ W3C (2025). Web Content Accessibility Guidelines (WCAG) 2.1. W3.org. Available a
 OpenAI (2025). ChatGPT. ChatGPT. Available at: https://chatgpt.com/ [Accessed 6 Mar. 2026].
 
 Frame work design Figma and Affinity Designer.
+UserProfiles https://app.diagrams.net/
