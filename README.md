@@ -86,6 +86,10 @@ Lys Forstner, S. (2023). Designing a Dyslexia-Friendly Interaction with News Art
 
 Netflix (2024). Netflix United Kingdom – Watch TV Programmes Online, Watch Films Online. [online] Netflix.com. Available at: https://www.netflix.com/gb/ [Accessed 6 Mar. 2026].
 
+W3C (2025). Web Content Accessibility Guidelines (WCAG) 2.1. W3.org. Available at: https://www.w3.org/TR/WCAG21/ [Accessed 23 Jan. 2026].
+
+### Credits
+
 OpenAI (2025). ChatGPT. ChatGPT. Available at: https://chatgpt.com/ [Accessed 6 Mar. 2026].
 
-W3C (2025). Web Content Accessibility Guidelines (WCAG) 2.1. W3.org. Available at: https://www.w3.org/TR/WCAG21/ [Accessed 23 Jan. 2026].
+Frame work design Figma and Affinity Designer.
